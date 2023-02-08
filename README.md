@@ -1,4 +1,4 @@
-Hi 👋 My name is Muhammad Yasir
+Hi 👋 My Name is Muhammad Yasir
 ================================
 
 We code to bring your dreams to LIFE.
