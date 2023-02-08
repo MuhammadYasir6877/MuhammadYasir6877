@@ -33,5 +33,5 @@ Once you share your dream, we envision it and then bring it to life with the lat
 
 ### A small 🐍 game on my commit's 😉
 
-![GitHub Snake Light](https://github.com/MuhammadYasir6877/MuhammadYasir6877/blob/master/github-snake.svg)
-![GitHub Snake dark](https://github.com/MuhammadYasir6877/MuhammadYasir6877/blob/master/github-snake-dark.svg)
+![GitHub Snake Light](https://github.com/MuhammadYasir6877/MuhammadYasir6877/blob/master/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/MuhammadYasir6877/MuhammadYasir6877/blob/master/github-snake-dark.svg#gh-dark-mode-only)
